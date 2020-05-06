@@ -1,6 +1,6 @@
 # JR-100 Emulator Library
 
-JR-100 Emulator Library (jr100emulib)は、松下電子工業が1982年に発売した8ビットマイコンJR-100のエミュレータをサポートするPythonパッケージです。
+JR-100 Emulator Library (jr100emulib)は、松下電子工業が1981年に発売した8ビットマイコンJR-100のエミュレータをサポートするPythonパッケージです。
 
 # 提供するモジュール
 
